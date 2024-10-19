@@ -1,0 +1,62 @@
+p {
+color:red; 
+text-align:center;
+}
+b, i, small{
+	color:blue;
+	font-size:20px;
+	text-align:left;
+}
+#upper{
+	text-transform: uppercase;
+}
+#nonce{
+	font-weight:bold;
+}
+#capital{
+	text-transform:capitalize;
+}
+.myStyle{
+	background-color:beige;
+}
+.myHeader{
+	background-color:skyblue;
+	color:purple;
+}
+.myClass{
+
+	color:orange;
+	font-size:20px;
+}
+.myClass b, .myClass small {
+
+	color:orange;
+	font-size:20px;
+}
+.firstDiv p{
+	color:green;
+	text-align:left;
+	text-indent:50px;
+}
+
+p.setP{
+	color:purple;
+	background-color:yellow;
+}
+a:link{color:blueviolet;}
+a:hover{color:green;}
+a:active{color:blue;}
+a:visited{color:orange;}
+
+#para1{
+text-align:center;
+color:red;	
+}
+
+
+
+.red {
+color:red;
+text-align: left; 
+
+}

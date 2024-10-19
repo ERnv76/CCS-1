@@ -1,0 +1,19 @@
+.box1{
+height: 300px;
+width: 300px;
+background: beige;
+padding:20px;
+border:20px purple solid;
+margin:20px ;
+}
+.box2{
+height: 380px;
+width: 380px;
+background-color: beige;
+margin:20px ;
+}
+p{
+	width:75%;
+	height:75%;
+	background-color: gray;
+}
